@@ -1,5 +1,7 @@
 appfolders={
     'windowsxp':[
-        'C:\Documents and Settings\All Users\Start Menu\Programs',
+        'C:\Program files',
+        'c:\windows\system32',
+        'd:\Program files'
         ]
     }
